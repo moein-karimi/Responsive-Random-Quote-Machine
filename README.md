@@ -1,1 +1,1 @@
-# Responsive-Random-Quote-Machine
+# Responsive Random Quote Machine
