@@ -1,7 +1,7 @@
 # Responsive Random Quote Machine
 
 
-## Technologies/Resources used:
+## Built With:
 * HTML
 * CSS
 * jQuery
